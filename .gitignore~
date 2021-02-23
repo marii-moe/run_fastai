@@ -1,0 +1,5 @@
+deepspeed
+wandb
+output
+runs
+.ipynb_checkpoints
